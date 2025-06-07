@@ -27,11 +27,11 @@ I am a final-year undergraduate student pursuing a dual degree in Communication 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2025 (Under Review)</div><img src='images/RealDev_World_logo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[RealDev World: Benchmarking Production-Ready Software Engineering](https://github.com/tanghaom/AppEvalPilot)
+[RealDev World: Benchmarking Production-Ready Software Engineering](https://example.com/link_to_project_page)
 
 Sirui Hong, **Yutong Bian**, Xinbing Liang, et al. 
 
-[**Project**](https://example.com/link_to_project_page)
+[**Project**](https://github.com/tanghaom/AppEvalPilot)
 - As the lead for AppEvalPilot, I designed and implemented a system to dynamically assess software functionality through UI interaction, moving beyond the limitations of static analysis for LLM-based software engineers. 
 - My work involved creating automated test case generation and a test execution agent capable of complex GUI interactions. 
 - The experimental results demonstrated a high correlation (0.91) between AppEvalPilot's assessments and those of human experts, while also being 55% faster and 94.8% cheaper. 
