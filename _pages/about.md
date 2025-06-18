@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a final-year undergraduate student pursuing a dual degree in Communication Engineering from Xidian University and Heriot-Watt University.  I have strong hands-on experience in developing, evaluating, and training MLLM-based GUI Agents.  My primary research interest lies in GUI Agent Training, and I am also enthusiastic about exploring related fields such as Reinforcement Learning for Large Language Models (including GRPO and DPO), LLM reasoning, and ToolUse Agents.  I am actively seeking a research intern position where I can apply and further develop my expertise in these areas while contributing to a research team. 
+I am a third-year undergraduate student currently taking a gap year, pursuing a dual degree in Communication Engineering from Xidian University and Heriot-Watt University. My research is centered on engineering intelligent GUI agents and deploying them to solve real-world problems. I am also enthusiastic about exploring related fields such as Reinforcement Learning for Large Language Models (including GRPO and DPO), LLM reasoning, and ToolUse Agents.  I am actively seeking a research intern position where I can apply and further develop my expertise in these areas while contributing to a research team. 
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 Our paper "RealDev World: Benchmarking Production-Ready Software Engineering" is under review at COLM 2025. 
@@ -29,7 +29,7 @@ I am a final-year undergraduate student pursuing a dual degree in Communication 
 
 [RealDev World: Benchmarking Production-Ready Software Engineering](https://example.com/link_to_project_page)
 
-Sirui Hong, **Yutong Bian**, Xinbing Liang, et al. 
+Sirui Hong*, **Yutong Bian***, Xinbing Liang, et al. 
 
 [**Project**](https://github.com/tanghaom/AppEvalPilot)
 - As the lead for AppEvalPilot, I designed and implemented a system to dynamically assess software functionality through UI interaction, moving beyond the limitations of static analysis for LLM-based software engineers. 
