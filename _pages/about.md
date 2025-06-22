@@ -27,7 +27,7 @@ I am a third-year undergraduate student currently taking a gap year, pursuing a 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2025 (Under Review)</div><img src='images/RealDev_World_logo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[RealDev World: Benchmarking Production-Ready Software Engineering](https://example.com/link_to_project_page)
+[RealDevWorld: Benchmarking Production-Ready Software Engineering](https://example.com/link_to_project_page)
 
 **Sirui Hong**\*, **Yutong Bian**\*, Xinbing Liang, et al. 
 
