@@ -29,7 +29,7 @@ I am a third-year undergraduate student currently taking a gap year, pursuing a 
 
 [RealDev World: Benchmarking Production-Ready Software Engineering](https://example.com/link_to_project_page)
 
-**Sirui Hong***, **Yutong Bian***, Xinbing Liang, et al. 
+**Sirui Hong**\*, **Yutong Bian**\*, Xinbing Liang, et al. 
 
 [**Project**](https://github.com/tanghaom/AppEvalPilot)
 - As the lead for AppEvalPilot, I designed and implemented a system to dynamically assess software functionality through UI interaction, moving beyond the limitations of static analysis for LLM-based software engineers. 
