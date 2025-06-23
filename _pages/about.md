@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year undergraduate student currently taking a gap year, pursuing a dual degree in Communication Engineering from Xidian University and Heriot-Watt University. My research is centered on engineering intelligent GUI agents and deploying them to solve real-world problems. I am also enthusiastic about exploring related fields such as Reinforcement Learning for Large Language Models (including GRPO and DPO), LLM reasoning, and ToolUse Agents.  I am actively seeking a research intern position where I can apply and further develop my expertise in these areas while contributing to a research team. 
-
+As a third-year undergraduate pursuing a dual degree in Communication Engineering from Xidian University and Heriot-Watt University, I have developed strong hands-on experience in the development, evaluation, and training of \textbf{MLLM-based Graphical User Interface (GUI) Agents}. My primary research interest lies in advancing the cognitive capabilities of GUI Agents to exhibit more human-like reasoning and generalization, with a core focus on pioneering novel training methodologies. I am also enthusiastic about exploring related fields such as Reinforcement Learning for Large Language Models (RL4LLM), LLM Reasoning, and Tool-Use Agents. I am seeking a PhD position where I can apply and expand my expertise to contribute to your research team.
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 Our paper "RealDev World: Benchmarking Production-Ready Software Engineering" is under review at COLM 2025. 
 
