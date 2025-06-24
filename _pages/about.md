@@ -26,24 +26,24 @@ As a third-year undergraduate pursuing a dual degree in Communication Engineerin
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2025 (Under Review)</div><img src='images/RealDev_World_logo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[RealDevWorld: Benchmarking Production-Ready Software Engineering](https://example.com/link_to_project_page)
+[RealDevWorld: Benchmarking Production-Ready Software Engineering](https://github.com/tanghaom/AppEvalPilot)
 
 **Sirui Hong**\*, **Yutong Bian**\*, Xinbing Liang, et al. 
 
 [**Project**](https://github.com/tanghaom/AppEvalPilot)
 - As the lead for AppEvalPilot, I designed and implemented a system to dynamically assess software functionality through UI interaction, moving beyond the limitations of static analysis for LLM-based software engineers. 
 - My work involved creating automated test case generation and a test execution agent capable of complex GUI interactions. 
-- The experimental results demonstrated a high correlation (0.91) between AppEvalPilot's assessments and those of human experts, while also being 55% faster and 94.8% cheaper. 
+- The experimental results demonstrated a high correlation (0.91) between AppEvalPilot's assessments and those of human experts, achieving an impressive accuracy of 87%, while also being 55% faster and 94.8% cheaper. 
 </div>
 </div>
 
 # 📖 Educations
-- *2021.09 - 2026.06*, B.Eng. in Communication Engineering (Dual Degree), Xidian University, China & Heriot-Watt University, UK. 
+- *2021.09 - 2026.06*, B.Eng. in Communication Engineering, Xidian University, China & Heriot-Watt University, UK. 
   - GPA: 3.8/4.0 
 
 # 💻 Internships
 - *2024.09 - 2025.05*, [MetaGPT](https://github.com/FoundationAgents/MetaGPT), Shenzhen, China. 
-  - Research Intern | Supervisor: Jinlin Wang, Chenglin Wu 
+  - Research Intern | Supervisor: [Sirui Hong](https://scholar.google.com.hk/citations?user=O-yMFdUAAAAJ&hl=zh-CN), [Jinlin Wang](https://scholar.google.com.hk/citations?user=ypzAHmIAAAAJ&hl=zh-CN&oi=ao), [Chenglin Wu](https://scholar.google.com.hk/citations?user=nYIj020AAAAJ&hl=zh-CN&oi=ao) 
   - Topic: GUI Agent; Agent Training; Benchmark 
 
 # 🚀 Projects
