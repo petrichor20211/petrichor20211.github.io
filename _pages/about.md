@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-As a third-year undergraduate pursuing a dual degree in Communication Engineering from Xidian University and Heriot-Watt University, I have developed strong hands-on experience in the development, evaluation, and training of \textbf{MLLM-based Graphical User Interface (GUI) Agents}. My primary research interest lies in advancing the cognitive capabilities of GUI Agents to exhibit more human-like reasoning and generalization, with a core focus on pioneering novel training methodologies. I am also enthusiastic about exploring related fields such as Reinforcement Learning for Large Language Models (RL4LLM), LLM Reasoning, and Tool-Use Agents. I am seeking a PhD position where I can apply and expand my expertise to contribute to your research team.
+As a third-year undergraduate pursuing a dual degree in Communication Engineering from Xidian University and Heriot-Watt University, I have developed strong hands-on experience in the development, evaluation, and training of MLLM-based Graphical User Interface (GUI) Agents. My primary research interest lies in advancing the cognitive capabilities of GUI Agents to exhibit more human-like reasoning and generalization, with a core focus on pioneering novel training methodologies. I am also enthusiastic about exploring related fields such as Reinforcement Learning for Large Language Models (RL4LLM), LLM Reasoning, and Tool-Use Agents. I am seeking a PhD position where I can apply and expand my expertise to contribute to your research team.
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 Our paper "RealDev World: Benchmarking Production-Ready Software Engineering" is under review at COLM 2025. 
 
@@ -33,7 +33,7 @@ As a third-year undergraduate pursuing a dual degree in Communication Engineerin
 [**Project**](https://github.com/tanghaom/AppEvalPilot)
 - As the lead for AppEvalPilot, I designed and implemented a system to dynamically assess software functionality through UI interaction, moving beyond the limitations of static analysis for LLM-based software engineers. 
 - My work involved creating automated test case generation and a test execution agent capable of complex GUI interactions. 
-- The experimental results demonstrated a high correlation (0.91) between AppEvalPilot's assessments and those of human experts, achieving an impressive accuracy of 87%, while also being 55% faster and 94.8% cheaper. 
+- The experimental results demonstrated a high correlation (0.91) between AppEvalPilot's assessments and those of human experts, while also being 55% faster and 94.8% cheaper. 
 </div>
 </div>
 
