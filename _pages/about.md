@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-As a third-year undergraduate pursuing a dual degree in Communication Engineering from Xidian University and Heriot-Watt University, I have developed strong hands-on experience in the development, evaluation, and training of MLLM-based Graphical User Interface (GUI) Agents. My primary research interest lies in advancing the cognitive capabilities of GUI Agents to exhibit more human-like reasoning and generalization, with a core focus on pioneering novel training methodologies. I am also enthusiastic about exploring related fields such as Reinforcement Learning for Large Language Models (RL4LLM), LLM Reasoning, and Tool-Use Agents. I am seeking a PhD position where I can apply and expand my expertise to contribute to your research team.
+I specialize in building and studying MLLM-based Graphical User Interface (GUI) Agents. My work involves both their practical development and evaluation, but my core research passion is to elevate their cognitive capabilities toward human-like reasoning and generalization. To this end, my research also extends to synergistic fields such as RL4LLM, LLM Reasoning, and Tool-Use Agents, which I consider crucial for pushing the boundaries of what GUI agents can achieve.
+
+Currently a third-year dual-degree student in Communication Engineering at Xidian University and Heriot-Watt University, I am eager to join a challenging PhD program and contribute to advancing this exciting field.
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 Our paper "RealDev World: Benchmarking Production-Ready Software Engineering" is under review at COLM 2025. 
 
