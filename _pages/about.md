@@ -20,6 +20,8 @@ redirect_from:
 I specialize in building and studying MLLM-based Graphical User Interface (GUI) Agents. My work involves both their practical development and evaluation, but my core research passion is to elevate their cognitive capabilities toward human-like reasoning and generalization. To this end, my research also extends to synergistic fields such as RL4LLM, LLM Reasoning, and Tool-Use Agents, which I consider crucial for pushing the boundaries of what GUI agents can achieve.
 
 Currently a third-year dual-degree student in Communication Engineering at Xidian University and Heriot-Watt University, I am eager to join a challenging PhD program and contribute to advancing this exciting field.
+
+[Curriculum Vitae](https://github.com/petrichor20211/petrichor20211.github.io/blob/main/files/YutongBian_CV.pdf)
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 Our paper "RealDev World: Benchmarking Production-Ready Software Engineering" is under review at COLM 2025. 
 
