@@ -29,7 +29,8 @@ Currently a third-year Undergraduate student in Communication Engineering at Xid
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2025 (Under Review)</div><img src='images/RealDev_World_logo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
-
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/RealDev_World_logo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [RealDevWorld: Benchmarking Production-Ready Software Engineering](https://petrichor20211.github.io/files/Software_Benchmark.pdf)
 
