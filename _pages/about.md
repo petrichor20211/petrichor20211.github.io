@@ -22,14 +22,14 @@ I specialize in building and studying MLLM-based Graphical User Interface (GUI) 
 Currently a third-year Undergraduate student in Communication Engineering at Xidian University and Heriot-Watt University, I am actively seeking a PhD/Intern Opportunity and contribute to advancing this exciting field.
 
 [Curriculum Vitae](https://petrichor20211.github.io/files/YutongBian_CV.pdf)
-<!-- # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 Our paper "RealDev World: Benchmarking Production-Ready Software Engineering" is under review at COLM 2025.  -->
+<!-- # 🔥 News -->
+<!-- - *2025.05*: &nbsp;🎉🎉 Our paper "RealDev World: Benchmarking Production-Ready Software Engineering" is under review at COLM 2025.  -->
 
 # 📝 Publications
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2025 (Under Review)</div><img src='images/RealDev_World_logo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/RealDev_World_logo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2025 (Under Review)</div><img src='images/RealDev_World_logo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RealDevWorld: Benchmarking Production-Ready Software Engineering](https://petrichor20211.github.io/files/Software_Benchmark.pdf)
