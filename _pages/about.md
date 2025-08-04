@@ -29,12 +29,12 @@ Currently a third-year Undergraduate student in Communication Engineering at Xid
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2025 (Under Review)</div><img src='images/RealDev_World_logo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2025 (Under Review)</div><img src='images/RealDev_World_logo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 (Under Review)</div><img src='images/RealDev_World_logo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[RealDevWorld: Benchmarking Production-Ready Software Engineering](https://petrichor20211.github.io/files/Software_Benchmark.pdf)
+[You Don't Know Until You Click: Automated GUI Testing for Production-Ready Software Evaluation](https://petrichor20211.github.io/files/You_Don_t_Know_Until_You_Click.pdf)
 
-**Sirui Hong**\*, **Yutong Bian**\*, Xinbing Liang, et al. 
+**Yutong Bian**\*, Xianhao Lin, Yupeng Xie, et al. 
 
 [**Project**](https://github.com/tanghaom/AppEvalPilot)
 - As the lead for AppEvalPilot, I designed and implemented a system to dynamically assess software functionality through UI interaction, moving beyond the limitations of static analysis for LLM-based software engineers. 
@@ -49,7 +49,7 @@ Currently a third-year Undergraduate student in Communication Engineering at Xid
 
 # 💻 Internships
 - *2024.09 - 2025.05*, [MetaGPT](https://github.com/FoundationAgents/MetaGPT), Shenzhen, China. 
-  - Research Intern | Supervisor: [Sirui Hong](https://scholar.google.com.hk/citations?user=O-yMFdUAAAAJ&hl=zh-CN), [Jinlin Wang](https://scholar.google.com.hk/citations?user=ypzAHmIAAAAJ&hl=zh-CN&oi=ao), [Chenglin Wu](https://scholar.google.com.hk/citations?user=nYIj020AAAAJ&hl=zh-CN&oi=ao) 
+  - Research Intern | Supervisor: [Sirui Hong](https://scholar.google.com.hk/citations?user=O-yMFdUAAAAJ&hl=zh-CN), [Haoming Tang](https://github.com/tanghaom), [Chenglin Wu](https://scholar.google.com.hk/citations?user=nYIj020AAAAJ&hl=zh-CN&oi=ao) 
   - Topic: GUI Agent; Agent Training; Benchmark 
 
 # 🚀 Projects
