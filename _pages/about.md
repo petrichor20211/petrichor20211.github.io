@@ -34,7 +34,7 @@ Currently a third-year Undergraduate student in Communication Engineering at Xid
 
 [You Don't Know Until You Click: Automated GUI Testing for Production-Ready Software Evaluation](https://petrichor20211.github.io/files/You_Don_t_Know_Until_You_Click.pdf)
 
-**Yutong Bian**\*, Xianhao Lin, Yupeng Xie, et al. 
+**Yutong Bian**\*, Xianhao Lin, Yupeng Xie et al. 
 
 [**Project**](https://github.com/tanghaom/AppEvalPilot)
 - As the lead for AppEvalPilot, I designed and implemented a system to dynamically assess software functionality through UI interaction, moving beyond the limitations of static analysis for LLM-based software engineers. 
