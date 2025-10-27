@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yutong Bian"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Xidian University"
-  location         : "Xi'an, China"
+  bio              : "Xidian & Heriot-Watt"
+  location         : "Edinburgh, United Kingdom"
   employer         :
   pubmed           : 
   googlescholar    :  #https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID
-  email            : "bianyutong@stu.xidian.edu.cn"
+  email            : "yutongbian02@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

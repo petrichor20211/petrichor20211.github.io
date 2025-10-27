@@ -38,7 +38,6 @@ Currently a final-year Undergraduate student in Communication Engineering at Xid
 - My work involved creating automated test case generation and a test execution agent capable of complex GUI interactions. 
 - The experimental results demonstrated a high correlation (0.91) between AppEvalPilot's assessments and those of human experts, while also being 55% faster and 94.8% cheaper. 
 </div>
-</div>
 
 # 📖 Educations
 - *2021.09 - 2026.06*, B.Eng. in Communication Engineering, Xidian University, China & Heriot-Watt University, UK. 
