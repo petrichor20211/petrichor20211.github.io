@@ -29,6 +29,9 @@ Currently a final-year Undergraduate student in Communication Engineering at Xid
 
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/RealDev_World_logo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 [You Don't Know Until You Click: Automated GUI Testing for Production-Ready Software Evaluation](https://petrichor20211.github.io/files/You_Don_t_Know_Until_You_Click.pdf)
 
 **Yutong Bian**\*, Xianhao Lin, Yupeng Xie et al. 
@@ -37,6 +40,8 @@ Currently a final-year Undergraduate student in Communication Engineering at Xid
 - As the lead for AppEvalPilot, I designed and implemented a system to dynamically assess software functionality through UI interaction, moving beyond the limitations of static analysis for LLM-based software engineers. 
 - My work involved creating automated test case generation and a test execution agent capable of complex GUI interactions. 
 - The experimental results demonstrated a high correlation (0.91) between AppEvalPilot's assessments and those of human experts, while also being 55% faster and 94.8% cheaper. 
+
+</div>
 </div>
 
 # 📖 Educations
