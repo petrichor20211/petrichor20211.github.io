@@ -17,20 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I specialize in building and studying MLLM-based Graphical User Interface (GUI) Agents. My work involves both their practical development and evaluation, but my core research passion is to elevate their cognitive capabilities toward human-like reasoning and generalization. To this end, my research also extends to synergistic fields such as RL4LLM, LLM Reasoning, and Tool-Use Agents, which I consider crucial for pushing the boundaries of what GUI agents can achieve.
+My core passion lies in the development and study of Computer Using Agents (CUAs), specifically focusing on MLLM-based Graphical User Interface (GUI) Agents. I aim to elevate these agents from mere task executors to sophisticated systems exhibiting human-like reasoning, generalization, and robust decision-making across complex digital environments.
 
-Currently a third-year Undergraduate student in Communication Engineering at Xidian University and Heriot-Watt University, I am actively seeking a PhD/Intern Opportunity and contribute to advancing this exciting field.
+My work spans the practical building and deployment of these agents and, crucially, the pursuit of multi-dimensional and reliable evaluation methodologies(Agent-as-a-Judge).
+
+Currently a final-year Undergraduate student in Communication Engineering at Xidian University and Heriot-Watt University, I am actively seeking a PhD/Intern Opportunity.
 
 [Curriculum Vitae](https://petrichor20211.github.io/files/YutongBian_CV.pdf)
 <!-- # 🔥 News -->
-<!-- - *2025.05*: &nbsp;🎉🎉 Our paper "RealDev World: Benchmarking Production-Ready Software Engineering" is under review at COLM 2025.  -->
+- *2025.10*: &nbsp;🎉🎉 Our paper "You Don't Know Until You Click: Automated GUI Testing for Production-Ready Software Evaluation" has been accepted by Scaling Environments for Agents (SEA) Workshop at NeurIPS 2025. 
 
 # 📝 Publications
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2025 (Under Review)</div><img src='images/RealDev_World_logo.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 (Under Review)</div><img src='images/RealDev_World_logo.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 [You Don't Know Until You Click: Automated GUI Testing for Production-Ready Software Evaluation](https://petrichor20211.github.io/files/You_Don_t_Know_Until_You_Click.pdf)
 
@@ -47,7 +44,7 @@ Currently a third-year Undergraduate student in Communication Engineering at Xid
 - *2021.09 - 2026.06*, B.Eng. in Communication Engineering, Xidian University, China & Heriot-Watt University, UK. 
   - GPA: 3.8/4.0 
 
-# 💻 Internships
+# 💻 Internship
 - *2024.09 - 2025.05*, [MetaGPT](https://github.com/FoundationAgents/MetaGPT), Shenzhen, China. 
   - Research Intern | Supervisor: [Sirui Hong](https://scholar.google.com.hk/citations?user=O-yMFdUAAAAJ&hl=zh-CN), [Haoming Tang](https://github.com/tanghaom), [Chenglin Wu](https://scholar.google.com.hk/citations?user=nYIj020AAAAJ&hl=zh-CN&oi=ao) 
   - Topic: GUI Agent; Agent Training; Benchmark 
